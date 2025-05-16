@@ -4,6 +4,7 @@
 
 [node name="Main" type="Node"]
 script = ExtResource("1_ig7tw")
+my_alignment = 1
 
 [node name="Label" type="Label" parent="."]
 anchors_preset = 8
